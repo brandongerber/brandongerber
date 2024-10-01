@@ -1,4 +1,5 @@
 # Hello! 👋
+![ ](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmd6czdsMXM1ZmttbzR2dXBmbHRmZHViMGpzYWZiMjJtb2tkdHBqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
 - 🔓 Cyber Security Major graduating Fall 2025!
 - ⚙️ I take part in Web/Mobile Application Penetration Testing
@@ -21,7 +22,7 @@
 [![ Code: Python         ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Python&logo=python)]()
 [![ Code: JavaScript     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=JavaScript&logo=javascript)]()
 
-`[BurpSuite + extensions]` `[Metasploit]` `[Nmap]` `[Nikto]` `[Sqlmap]` `[Impacket]` `[Bloodhound]` `[Mimikatz]` `[Wireshark]` `[NetworkMiner]` `[volatility]` `[IDA Pro]` `[Immunity Debugger]` `[edb]` ...
+`[Metasploit]` `[Nmap]` `[Sqlmap]` `[Wireshark]` 
 
 <br>
 
