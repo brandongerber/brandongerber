@@ -1,15 +1,9 @@
 # Hello! 👋
-<img align="right" alt="🐼" width="28%" src="images/🐼.jpg" />
 
 - 🔓 Cyber Security Major graduating Fall 2025!
 - ⚙️ I take part in Web/Mobile Application Penetration Testing
 - ⚔️ I participate in hackathons and CTF events
 - ⌨️ I hack, code & learn because I love it
-<div align=left>
-	<a href="https://drive.google.com/file/d/11koWi7U4apvZTPGWksTcJWcjainh_dvg/view?usp=sharing"><img src="https://img.shields.io/badge/CV%20[EN]-informational?style=for-the-badge&color=808080"/></a>&nbsp;
-	<a href="https://drive.google.com/file/d/1xCvhCmYjtIoZbCNVd7YMR3AmlorW8VQG/view?usp=sharing"><img src="https://img.shields.io/badge/CV%20[RU]-informational?style=for-the-badge&color=808080"/></a>
-</div>
-
 
 ## Interests
 [![ Cyber Security     ](https://img.shields.io/badge/Cyber%20Security-informational?style=for-the-badge&color=424242)]()
