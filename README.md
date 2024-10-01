@@ -1,4 +1,3 @@
-# Hello! 👋
 ![ ](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmd6czdsMXM1ZmttbzR2dXBmbHRmZHViMGpzYWZiMjJtb2tkdHBqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
 - 🔓 Cyber Security Major graduating Fall 2025!
