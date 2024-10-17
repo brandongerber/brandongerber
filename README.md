@@ -1,4 +1,5 @@
-![ ](https://tryhackme.com/api/v2/badges/public-profile/image?userPublicId=2574868)
+![ ](https://tryhackme-badges.s3.amazonaws.com/bgerbie.png)
+
 
 
 
