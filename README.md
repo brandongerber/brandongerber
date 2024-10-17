@@ -11,7 +11,7 @@
 <br>
 [![ Machine Learning   ](https://img.shields.io/badge/Machine%20Learning-informational?style=for-the-badge&color=424242)]()
 
-![ ](https://tryhackme-badges.s3.amazonaws.com/bgerbie.png)
+
 ## Technologies
 [![ OS: Windows          ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Windows&logo=windows)]()
 [![ OS: Kali Linux       ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=OS&message=Kali%20Linux&logo=kalilinux)]()
