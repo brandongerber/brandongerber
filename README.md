@@ -1,5 +1,7 @@
 ![ ](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmd6czdsMXM1ZmttbzR2dXBmbHRmZHViMGpzYWZiMjJtb2tkdHBqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
-![ ](https://tryhackme-badges.s3.amazonaws.com/dieuvitesse.png)
+
+
+-![ ](https://tryhackme-badges.s3.amazonaws.com/dieuvitesse.png)
 
 
 - 🔓 Cyber Security Major graduating Fall 2025!
