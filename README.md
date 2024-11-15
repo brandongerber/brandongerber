@@ -1,4 +1,5 @@
 ![ ](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmd6czdsMXM1ZmttbzR2dXBmbHRmZHViMGpzYWZiMjJtb2tkdHBqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2574868" style="border:none;"></iframe>
 
 - 🔓 Cyber Security Major graduating Fall 2025!
 - ⌨️ Based in Florida
