@@ -1,9 +1,9 @@
 ![ ](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmd6czdsMXM1ZmttbzR2dXBmbHRmZHViMGpzYWZiMjJtb2tkdHBqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
 
-# 👋 Hey, I’m Brandon  
-🔓 Cybersecurity Major — graduating **Fall 2025**  
-⌨️ Based in **Florida**  
+# 👋 Hi, My name is Brandon! 
+🔓 I am a Cybersecurity Major; graduating **Fall 2025**  
+⌨️ Based in **Miami**  
 
 ## 🕵️ Interests
 [![Cyber Security](https://img.shields.io/badge/Cyber%20Security-424242?style=for-the-badge)]()
