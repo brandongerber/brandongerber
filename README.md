@@ -1,6 +1,6 @@
 ![ ](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmd6czdsMXM1ZmttbzR2dXBmbHRmZHViMGpzYWZiMjJtb2tkdHBqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)
 
-# 👋 Hi, My name is Brandon!  
+# 👋 Hi
 🔓 I am a **Cybersecurity Major** graduating **Fall 2025**  
 ⌨️ Based in **Miami, FL**  
 
