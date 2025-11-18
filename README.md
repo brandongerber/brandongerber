@@ -1,6 +1,6 @@
 ![](https://upload.wikimedia.org/wikipedia/commons/1/17/Digital_rain_animation_small_letters_clear.gif)
 
-🔓 I am a **Cybersecurity Major** graduating **Fall 2025**  
+🔓 **Cybersecurity Major** graduating **Fall 2025**  
 ⌨️ Based in **Miami, FL**  
 
 ---
